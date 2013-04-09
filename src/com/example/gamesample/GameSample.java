@@ -88,7 +88,7 @@ class MySurfaceView extends SurfaceView implements SurfaceHolder.Callback{
 	}
 	
 	/**
-	 * 太鼓の画像を描画するメソッド
+	 * ゲーム状態を描画するメソッド
 	 */
 	private void drawGame() {
 		// Canvasを取得する
